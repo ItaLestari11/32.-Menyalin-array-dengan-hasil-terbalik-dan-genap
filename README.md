@@ -1,0 +1,1 @@
+# 32.-Menyalin-array-dengan-hasil-terbalik-dan-genap
